@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .liquid-glass {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(24px) saturate(180%);
+    -webkit-backdrop-filter: blur(24px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    box-shadow: 
+      0 10px 30px 0 rgba(31, 38, 135, 0.05),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.95),
+      inset 0 -1px 1px 0 rgba(0, 0, 0, 0.02);
+  }
+
+  .liquid-glass-card {
+    background: rgba(255, 255, 255, 0.72);
+    backdrop-filter: blur(20px) saturate(190%);
+    -webkit-backdrop-filter: blur(20px) saturate(190%);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 
+      0 14px 40px -8px rgba(99, 102, 241, 0.08),
+      0 4px 12px 0 rgba(0, 0, 0, 0.03),
+      inset 0 1px 2px 0 rgba(255, 255, 255, 1);
+  }
+
+  .liquid-button {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(243, 246, 254, 0.8) 100%);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 1);
+    box-shadow: 
+      0 4px 14px 0 rgba(99, 102, 241, 0.07),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 1);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .liquid-button:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(235, 241, 255, 0.9) 100%);
+    box-shadow: 
+      0 6px 20px 0 rgba(99, 102, 241, 0.14),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 1);
+    transform: translateY(-1px);
+  }
+
+  .liquid-primary-btn {
+    background: linear-gradient(135deg, #2563eb 0%, #4f46e5 100%);
+    box-shadow: 
+      0 8px 24px -4px rgba(37, 99, 235, 0.35),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.4);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .liquid-primary-btn:hover {
+    background: linear-gradient(135deg, #1d4ed8 0%, #4338ca 100%);
+    box-shadow: 
+      0 12px 28px -4px rgba(37, 99, 235, 0.45),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.4);
+    transform: translateY(-1px);
+  }
+}

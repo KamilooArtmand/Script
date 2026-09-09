@@ -1,0 +1,6 @@
+{
+  "name": "Font Version Fixer",
+  "description": "Smart OpenType and TrueType font metadata inspector and directory normalizer with version extraction, conflict prevention, and rollback capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
