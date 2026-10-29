@@ -1,0 +1,122 @@
+{
+  "Font-FIX.ps1": {
+    "mtime": 1791839921.2125394,
+    "seen": 1792433097.411085,
+    "ast_hash": "fee2b615df28ef2d1bb18f09df34c27c",
+    "semantic_hash": "fee2b615df28ef2d1bb18f09df34c27c"
+  },
+  "Font-FIX.py": {
+    "mtime": 1791839921.2125394,
+    "seen": 1792433097.411085,
+    "ast_hash": "c80b20f5dcb8fba1a940f47bc44fa725",
+    "semantic_hash": "c80b20f5dcb8fba1a940f47bc44fa725"
+  },
+  "metadata.json": {
+    "mtime": 1791839921.2141807,
+    "seen": 1792433097.411085,
+    "ast_hash": "797e6d08c1b2aaa02c21032ca753e082",
+    "semantic_hash": "797e6d08c1b2aaa02c21032ca753e082"
+  },
+  "package.json": {
+    "mtime": 1791839921.2141807,
+    "seen": 1792433097.411085,
+    "ast_hash": "be78cdc1654e77a19a2356c8f3b1edda",
+    "semantic_hash": "be78cdc1654e77a19a2356c8f3b1edda"
+  },
+  "src/App.tsx": {
+    "mtime": 1791839921.2145581,
+    "seen": 1792433097.411085,
+    "ast_hash": "54ce2dd8ea2aee799ddc4a139dcc9080",
+    "semantic_hash": "54ce2dd8ea2aee799ddc4a139dcc9080"
+  },
+  "src/components/CodeViewer.tsx": {
+    "mtime": 1791839921.2145581,
+    "seen": 1792433097.411085,
+    "ast_hash": "42b2c51415e0d12875c62b79c93031b6",
+    "semantic_hash": "42b2c51415e0d12875c62b79c93031b6"
+  },
+  "src/components/ComparisonMatrix.tsx": {
+    "mtime": 1791839921.215576,
+    "seen": 1792433097.411085,
+    "ast_hash": "2cc1bdaf42362da5e10e97a648590e12",
+    "semantic_hash": "2cc1bdaf42362da5e10e97a648590e12"
+  },
+  "src/components/FeaturesSynopsis.tsx": {
+    "mtime": 1791839921.215576,
+    "seen": 1792433097.411085,
+    "ast_hash": "666f204f06b5afc0b28bc61559794e1d",
+    "semantic_hash": "666f204f06b5afc0b28bc61559794e1d"
+  },
+  "src/components/LiquidFileCard.tsx": {
+    "mtime": 1791839921.215576,
+    "seen": 1792433097.411085,
+    "ast_hash": "aa7715060bd8f56058ca45e5550281d6",
+    "semantic_hash": "aa7715060bd8f56058ca45e5550281d6"
+  },
+  "src/components/LiveSimulator.tsx": {
+    "mtime": 1791839921.215576,
+    "seen": 1792433097.411085,
+    "ast_hash": "9963e0043e25368f10f1c8cbf598da3d",
+    "semantic_hash": "9963e0043e25368f10f1c8cbf598da3d"
+  },
+  "src/data/codeSnippets.ts": {
+    "mtime": 1791839921.216607,
+    "seen": 1792433097.411085,
+    "ast_hash": "20ea687759f430c5e0ca7a306e7ad54c",
+    "semantic_hash": "20ea687759f430c5e0ca7a306e7ad54c"
+  },
+  "src/data/translations.ts": {
+    "mtime": 1791839921.2176054,
+    "seen": 1792433097.411085,
+    "ast_hash": "80d6d9188aafe4b38dae1b20b1918ebb",
+    "semantic_hash": "80d6d9188aafe4b38dae1b20b1918ebb"
+  },
+  "src/main.tsx": {
+    "mtime": 1791839921.2176054,
+    "seen": 1792433097.411085,
+    "ast_hash": "a0bcc3ffa5e95e1965f94969ab488283",
+    "semantic_hash": "a0bcc3ffa5e95e1965f94969ab488283"
+  },
+  "src/pages/FontFixPage.tsx": {
+    "mtime": 1791839921.2176054,
+    "seen": 1792433097.411085,
+    "ast_hash": "e615ccee08ccd76a08fb7047452ff08f",
+    "semantic_hash": "e615ccee08ccd76a08fb7047452ff08f"
+  },
+  "src/pages/LandingPage.tsx": {
+    "mtime": 1791839921.2176054,
+    "seen": 1792433097.411085,
+    "ast_hash": "c44bd6502b678e8ea4f7e50ff5f27508",
+    "semantic_hash": "c44bd6502b678e8ea4f7e50ff5f27508"
+  },
+  "src/types.ts": {
+    "mtime": 1791839921.2176054,
+    "seen": 1792433097.411085,
+    "ast_hash": "179feb860d244c61ee50008d70c3d252",
+    "semantic_hash": "179feb860d244c61ee50008d70c3d252"
+  },
+  "src/utils/fontParser.ts": {
+    "mtime": 1791839921.2188766,
+    "seen": 1792433097.411085,
+    "ast_hash": "788a362c8866e4bd9ecc560a7e2961eb",
+    "semantic_hash": "788a362c8866e4bd9ecc560a7e2961eb"
+  },
+  "test.ps1": {
+    "mtime": 1791839921.2188766,
+    "seen": 1792433097.411085,
+    "ast_hash": "76b4299aa71440d2b7f9569fca5dd4a9",
+    "semantic_hash": "76b4299aa71440d2b7f9569fca5dd4a9"
+  },
+  "tsconfig.json": {
+    "mtime": 1791839921.2188766,
+    "seen": 1792433097.411085,
+    "ast_hash": "aca6cdac13db39d03d9b95866834d84f",
+    "semantic_hash": "aca6cdac13db39d03d9b95866834d84f"
+  },
+  "vite.config.ts": {
+    "mtime": 1791839921.2188766,
+    "seen": 1792433097.411085,
+    "ast_hash": "e6e0a2880009cbaf224c08e420ccedf5",
+    "semantic_hash": "e6e0a2880009cbaf224c08e420ccedf5"
+  }
+}

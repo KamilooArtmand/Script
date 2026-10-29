@@ -1,0 +1,335 @@
+{
+  "communities": {
+    "0": [
+      "any",
+      "font_fix_auditandrollbackmanager",
+      "font_fix_auditandrollbackmanager_perform_rollback",
+      "font_fix_auditandrollbackmanager_save_audit_log",
+      "font_fix_auditandrollbackmanager_save_text_log",
+      "font_fix_folderprocessresult",
+      "font_fix_folderrenamingengine",
+      "font_fix_folderrenamingengine_detect_existing_version_in_name",
+      "font_fix_folderrenamingengine_execute",
+      "font_fix_folderrenamingengine_find_best_font_file",
+      "font_fix_folderrenamingengine_init",
+      "font_fix_folderrenamingengine_process_folder",
+      "font_fix_folderrenamingengine_scan_and_collect_folders",
+      "font_fix_main",
+      "font_fix_rationale_110",
+      "font_fix_rationale_301",
+      "font_fix_rationale_323",
+      "font_fix_rationale_347",
+      "font_fix_rationale_367",
+      "font_fix_rationale_380",
+      "font_fix_rationale_472",
+      "font_fix_rationale_511",
+      "font_fix_rationale_515",
+      "font_fix_rationale_536",
+      "font_fix_rationale_562",
+      "font_fix_rationale_94",
+      "font_fix_reportingmanager_display_summary_table",
+      "font_fix_terminalui",
+      "font_fix_terminalui_banner",
+      "font_fix_terminalui_log_error",
+      "font_fix_terminalui_log_info",
+      "font_fix_terminalui_log_success",
+      "font_fix_terminalui_log_warning",
+      "path"
+    ],
+    "1": [
+      "argparse",
+      "dataclasses",
+      "datetime",
+      "font_fix_fontmetadata",
+      "font_fix_fontmetadataextractor",
+      "font_fix_fontmetadataextractor_extract",
+      "font_fix_fontmetadataextractor_normalize_version_string",
+      "font_fix_parse_arguments",
+      "font_fix_py_font_fix",
+      "font_fix_rationale_157",
+      "font_fix_rationale_161",
+      "font_fix_rationale_253",
+      "font_fix_rationale_3",
+      "font_fix_rationale_618",
+      "font_fix_rationale_82",
+      "font_fix_reportingmanager",
+      "fonttools_ttlib",
+      "fonttools_ttlib_tables_n_a_m_e",
+      "json",
+      "namespace",
+      "os",
+      "pathlib",
+      "re",
+      "rich_console",
+      "rich_panel",
+      "rich_progress",
+      "rich_prompt",
+      "rich_table",
+      "rich_text",
+      "sys",
+      "typing"
+    ],
+    "2": [
+      "package",
+      "package_name",
+      "package_private",
+      "package_type",
+      "package_version",
+      "ref_autoprefixer",
+      "ref_dotenv",
+      "ref_esbuild",
+      "ref_express",
+      "ref_google_genai",
+      "ref_motion",
+      "ref_path",
+      "ref_react_dom",
+      "ref_tailwindcss",
+      "ref_tailwindcss_vite",
+      "ref_tsx",
+      "ref_types_express",
+      "ref_types_node",
+      "ref_typescript",
+      "ref_vite",
+      "ref_vitejs_plugin_react",
+      "vite_config"
+    ],
+    "3": [
+      "ref_lucide_react",
+      "ref_react",
+      "ref_react_router_dom",
+      "src_app",
+      "src_app_app",
+      "src_components_featuressynopsis",
+      "src_components_featuressynopsis_featuressynopsis",
+      "src_components_featuressynopsis_props",
+      "src_components_liquidfilecard",
+      "src_components_liquidfilecard_liquidfilecard",
+      "src_components_liquidfilecard_liquidfilecardprops",
+      "src_data_translations",
+      "src_data_translations_translations",
+      "src_index",
+      "src_main",
+      "src_pages_fontfixpage",
+      "src_pages_fontfixpage_fontfixpage",
+      "src_pages_landingpage",
+      "src_pages_landingpage_landingpage"
+    ],
+    "4": [
+      "src_components_codeviewer",
+      "src_components_codeviewer_codeviewer",
+      "src_components_comparisonmatrix",
+      "src_components_comparisonmatrix_comparisonmatrix",
+      "src_components_livesimulator",
+      "src_components_livesimulator_livesimulator",
+      "src_data_codesnippets",
+      "src_data_codesnippets_batch_launcher_code",
+      "src_data_codesnippets_bug_comparisons",
+      "src_data_codesnippets_powershell_script_code",
+      "src_data_codesnippets_python_script_code",
+      "src_data_codesnippets_sample_folders",
+      "src_types",
+      "src_types_bugcomparison",
+      "src_types_foldersimulationitem",
+      "src_types_fontinfo",
+      "src_utils_fontparser",
+      "src_utils_fontparser_normalizeversionstring",
+      "src_utils_fontparser_parsefontbuffer"
+    ],
+    "5": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowimportingtsextensions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_experimentaldecorators",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduledetection",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_target",
+      "tsconfig_compileroptions_usedefineforclassfields"
+    ],
+    "6": [
+      "font_fix_decompress_zlibbytes",
+      "font_fix_format_fontname",
+      "font_fix_get_fontversionbypatternfallback",
+      "font_fix_get_fontversionfrombinary",
+      "font_fix_get_versionviapythonfonttools",
+      "font_fix_invoke_rollback",
+      "font_fix_parse_headtablerevision",
+      "font_fix_parse_nametablestream",
+      "font_fix_ps1_font_fix",
+      "font_fix_read_tag",
+      "font_fix_read_uint16be",
+      "font_fix_read_uint32be",
+      "font_fix_start_fontfixprocess"
+    ],
+    "7": [
+      "package_dependencies",
+      "package_dependencies_dotenv",
+      "package_dependencies_express",
+      "package_dependencies_google_genai",
+      "package_dependencies_lucide_react",
+      "package_dependencies_motion",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_react_router_dom",
+      "package_dependencies_tailwindcss_vite",
+      "package_dependencies_vite",
+      "package_dependencies_vitejs_plugin_react"
+    ],
+    "8": [
+      "package_devdependencies",
+      "package_devdependencies_autoprefixer",
+      "package_devdependencies_esbuild",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tsx",
+      "package_devdependencies_types_express",
+      "package_devdependencies_types_node",
+      "package_devdependencies_typescript",
+      "package_devdependencies_vite"
+    ],
+    "9": [
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_clean",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_preview"
+    ],
+    "10": [
+      "test",
+      "test_format_fontname"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1140819964349376,
+    "1": 0.06881720430107527,
+    "2": 0.09956709956709957,
+    "3": 0.23391812865497075,
+    "4": 0.2046783625730994,
+    "5": 0.125,
+    "6": 0.3076923076923077,
+    "7": 0.16666666666666666,
+    "8": 0.2222222222222222,
+    "9": 0.3333333333333333,
+    "10": 1.0
+  },
+  "gods": [
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "font_fix_main",
+      "label": "main()",
+      "degree": 13
+    },
+    {
+      "id": "font_fix_get_fontversionfrombinary",
+      "label": "Get-FontVersionFromBinary()",
+      "degree": 10
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 10
+    },
+    {
+      "id": "font_fix_folderrenamingengine",
+      "label": "FolderRenamingEngine",
+      "degree": 9
+    },
+    {
+      "id": "ref_lucide_react",
+      "label": "lucide-react",
+      "degree": 8
+    },
+    {
+      "id": "font_fix_terminalui",
+      "label": "TerminalUI",
+      "degree": 7
+    },
+    {
+      "id": "font_fix_folderprocessresult",
+      "label": "FolderProcessResult",
+      "degree": 6
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 6
+    },
+    {
+      "id": "src_pages_fontfixpage_fontfixpage",
+      "label": "FontFixPage()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "FontFixPage()",
+      "target": "LiveSimulator()",
+      "source_files": [
+        "src/pages/FontFixPage.tsx",
+        "src/components/LiveSimulator.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "App()",
+      "target": "FontFixPage()",
+      "source_files": [
+        "src/App.tsx",
+        "src/pages/FontFixPage.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "App()",
+      "target": "LandingPage()",
+      "source_files": [
+        "src/App.tsx",
+        "src/pages/LandingPage.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "FontFixPage()",
+      "target": "FeaturesSynopsis()",
+      "source_files": [
+        "src/pages/FontFixPage.tsx",
+        "src/components/FeaturesSynopsis.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "FontFixPage()",
+      "target": "LiquidFileCard()",
+      "source_files": [
+        "src/pages/FontFixPage.tsx",
+        "src/components/LiquidFileCard.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
